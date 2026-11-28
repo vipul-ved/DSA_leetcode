@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/vipul-ved/DSA_leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/vipul-ved/DSA_leetcode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -21,4 +22,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/vipul-ved/DSA_leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/vipul-ved/DSA_leetcode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
+## Sorting
+|  |
+| ------- |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/vipul-ved/DSA_leetcode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/vipul-ved/DSA_leetcode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 <!---LeetCode Topics End-->
