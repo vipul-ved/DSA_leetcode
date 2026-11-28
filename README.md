@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/vipul-ved/DSA_leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/vipul-ved/DSA_leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 | [3947-maximum-number-of-items-from-sale-ii](https://github.com/vipul-ved/DSA_leetcode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Dynamic Programming
@@ -21,11 +22,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/vipul-ved/DSA_leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/vipul-ved/DSA_leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 | [3947-maximum-number-of-items-from-sale-ii](https://github.com/vipul-ved/DSA_leetcode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Sorting
 |  |
 | ------- |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/vipul-ved/DSA_leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3947-maximum-number-of-items-from-sale-ii](https://github.com/vipul-ved/DSA_leetcode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Heap (Priority Queue)
 |  |
