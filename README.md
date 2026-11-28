@@ -31,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3947-maximum-number-of-items-from-sale-ii](https://github.com/vipul-ved/DSA_leetcode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
+## String
+|  |
+| ------- |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/vipul-ved/DSA_leetcode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 <!---LeetCode Topics End-->
